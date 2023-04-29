@@ -131,7 +131,7 @@
     <ClCompile Include="day01_黑马c++.cpp" />
     <ClCompile Include="命名空间.cpp" />
     <ClCompile Include="命名空间的定义.cpp" />
-    <ClCompile Include="引用的基本语法.cpp" />
+    <ClCompile Include="6引用的基本语法.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

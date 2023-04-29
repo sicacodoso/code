@@ -1,4 +1,6 @@
-
+#include <iostream>
+//ÃüÃû¿Õ¼ä
+using namespace std;
 
 
 void test()

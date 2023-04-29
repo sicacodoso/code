@@ -27,7 +27,7 @@
     <ClCompile Include="C_语言增强的地方.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="引用的基本语法.cpp">
+    <ClCompile Include="6引用的基本语法.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
