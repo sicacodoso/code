@@ -8,7 +8,7 @@ void func(int a= 999)
 	cout << a << endl;
 }
 
-int get_volum(int l, int w, int h)
+int get_volum(int l, int w, int h)//默认参数只能从右往左开始设置
 {
 	cout << "len=" << l << endl;
 	cout << "wight=" << w << endl;
@@ -18,6 +18,10 @@ int get_volum(int l, int w, int h)
 
 }
 
+void func2(int c, int)//占位参数没啥意义
+{
+	cout << c << endl;
+}
 int	main(void)
 {
 	int vulue = 3;
