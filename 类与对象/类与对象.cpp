@@ -6,7 +6,7 @@ using namespace std;
 
 class hero
 {
-public://·ÃÎÊ¿ØÖÆÈ¨ÏŞ
+public://è®¿é—®æ§åˆ¶æƒé™
 	char name[64];
 	int sex;
 
@@ -19,7 +19,7 @@ public://·ÃÎÊ¿ØÖÆÈ¨ÏŞ
 
 	void run()
 	{
-		cout << name << "ÔÚÅÜ²½" << endl;
+		cout << name << "åœ¨è·‘æ­¥" << endl;
 	}
 private:
 	
