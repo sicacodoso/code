@@ -1,5 +1,5 @@
-#define _CRT_SECURE_NO_WORANINGS	
-#include<iostream>
+#define _CRT_SECURE_NO_WARNINGS	
+#include <iostream>
 
 using namespace std;
 
