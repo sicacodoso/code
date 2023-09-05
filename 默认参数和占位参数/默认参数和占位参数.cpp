@@ -18,7 +18,7 @@ int get_volum(int l, int w, int h)//默认参数只能从右往左开始设置
 
 }
 
-void func2(int c, int)//占位参数没啥意义
+void func2(int c, int)//占位参数没啥意义,亚元
 {
 	cout << c << endl;
 }
